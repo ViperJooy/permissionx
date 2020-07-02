@@ -45,10 +45,10 @@ buildscript {
 }
 
 publish {
-    userOrg = 'viper'
-    groupId = 'com.viper.permissionx'
+    userOrg = 'viperjooy'
+    groupId = 'com.viper.library'
     artifactId = 'permissionx'
     publishVersion = '1.0.0'
-    desc = 'a open source library for apply permission implemented with kotlin.'
+    desc = 'a open source library for request runtime permission implemented with kotlin.'
     website = 'https://github.com/viperjooy/PermissionX'
 }
